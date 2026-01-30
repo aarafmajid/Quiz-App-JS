@@ -18,3 +18,5 @@ Clean design with simple animations
 
 # Quiz-App-JS
 ![Image](https://github.com/user-attachments/assets/8c9fbeb8-1254-46ef-a2d3-9bf7adcf3b27)
+
+![Image](https://github.com/user-attachments/assets/ae8ee484-e842-47ff-ae3e-5d711d96a8e1)
