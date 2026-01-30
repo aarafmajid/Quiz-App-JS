@@ -1,3 +1,5 @@
+# Quiz-App-JS
+
 Quiz Application built with HTML, CSS, JavaScript, and Bootstrap
 
 📌 Project Description – CSS and JS Quiz Application
@@ -16,7 +18,7 @@ Clean design with simple animations
 
 🔹 Technologies Used HTML5, CSS3, Bootstrap 5, JavaScript (ES6)
 
-# Quiz-App-JS
+
 ![Image](https://github.com/user-attachments/assets/8c9fbeb8-1254-46ef-a2d3-9bf7adcf3b27)
 
 ![Image](https://github.com/user-attachments/assets/ae8ee484-e842-47ff-ae3e-5d711d96a8e1)
