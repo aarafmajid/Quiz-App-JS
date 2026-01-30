@@ -17,3 +17,4 @@ Clean design with simple animations
 🔹 Technologies Used HTML5, CSS3, Bootstrap 5, JavaScript (ES6)
 
 # Quiz-App-JS
+![Image](https://github.com/user-attachments/assets/8c9fbeb8-1254-46ef-a2d3-9bf7adcf3b27)
